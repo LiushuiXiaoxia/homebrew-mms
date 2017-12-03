@@ -1,8 +1,8 @@
 class Mms < Formula
   desc "My mock server, mock HTTP server and proxy"
   homepage "https://github.com/LiushuiXiaoxia/MyMockServer"
-  url "https://github.com/LiushuiXiaoxia/MyMockServer/raw/master/deploy/mms-0.2.zip"
-  sha256 "1f3c59896a82f043a1f1ec4b3f41c853f8efca8ee63e7031255101e4895821aa"
+  url "https://github.com/LiushuiXiaoxia/MyMockServer/raw/develop/deploy/mms-0.3.zip"
+  sha256 "06c9a715582dc5d89e47a766fe852007b96d55753bbb8a21ed9644031d3eb880"
 
   bottle :unneeded
   depends_on :java => "1.6+"
